@@ -1,1 +1,2 @@
-# Inteligentny-system-rozpoznawania-gatunku-utworu-muzycznego-na-podstawie-pr-bki-d-wi-ku
+# An intelligent system for recognizing the genre of a piece of music
+based on a sound sample
